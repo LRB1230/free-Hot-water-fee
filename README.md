@@ -67,7 +67,7 @@
   
    ![Screenshot_2025-11-28-19-02-31-57_265eefe1b4d950c](https://github.com/user-attachments/assets/227d9dc7-f97b-48ba-8a6d-9c3b8759b45a)
  
-**4.找到具体是哪一个数据包发出洗了多少钱**
+**4.找到具体是哪一个数据包发出洗了多少钱（我们要获取的是最后结束洗澡的数据包，没点结束洗澡之前的数据包可以全部清除，可以更好寻找，需要数据包）**
 
   （1）![IMG_20251128_190813](https://github.com/user-attachments/assets/6766891f-e513-44dc-8429-c258a67b2bde)
 
